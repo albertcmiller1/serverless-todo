@@ -21,7 +21,7 @@ export URL="https://xgrmbxql1h.execute-api.us-east-1.amazonaws.com/Prod"
 ```
 **say hello**
 ```
-curl https://8n2raxwpo9.execute-api.us-east-1.amazonaws.com/Prod/hello/ 
+curl ${URL}/hello/ 
 ```
 
 **post a product**
